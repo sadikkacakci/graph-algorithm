@@ -1,5 +1,3 @@
-# python dosyalarıyla overriding olmaması için myQueue olarak dosya ismini kaydettim.
-
 class Queue:
     def __init__(self):
         self.items = []
